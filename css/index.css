@@ -1,0 +1,70 @@
+    <style>
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+      body{
+          background-color: #2d5986;
+          background-size: cover;
+          background-attachment: fixed;                           
+      }
+       
+      .nav-logo img{
+        width: 150px;
+        cursor: pointer;
+         
+      }
+    .back{
+    position: relative;
+  z-index: 1;
+  background: #FFFFFF;
+  max-width: 360px;
+  margin: 0 auto 100px;
+  padding: 45px;
+  text-align: center;
+  box-shadow:rgb(6 6 6) 5px 5px, rgb(0 0 0 / 87%) 10px 10px, rgb(14 12 13 / 67%) 15px 15px, rgb(12 10 11 / 59%) 20px 20px, rgb(0 0 0 / 35%) 25px 25px;
+  margin-top: 100px;
+    border-radius: 10px;
+    
+}
+    
+    .btn{
+         margin-left: -35px;
+         style: none;  
+      }
+    
+    .btn ul li a{
+        text-decoration: none;
+        color: white;
+        font-family: 'Cairo', sans-serif;
+        font-size: 15px;
+        font-weight: bold;
+        
+      }
+
+      .btn ul li{    
+         border: none;
+        border-radius:10px;
+        padding: 15px 28px;
+        text-align: center;
+        display: bottom;
+        display: inline-block;
+        margin: 4px 2px;
+        cursor: pointer;
+        background-color: #364f6b;
+        transition: 0.5s; 
+      }
+
+
+      .btn ul li:hover{
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      }
+    
+     h1{
+        text-align: center;
+        font-style: italic;
+      }
+      </style>
+   
